@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_user_edit_text_height">60dp</dimen>
+    <dimen name="search_user_button_end_margin">16dp</dimen>
+    <dimen name="search_user_button_top_margin">4dp</dimen>
+    <dimen name="user_avatar_size">100dp</dimen>
+    <dimen name="user_avatar_start_margin">36dp</dimen>
+    <dimen name="user_name_start_margin">16dp</dimen>
+    <dimen name="user_name_top_margin">36dp</dimen>
+    <dimen name="user_name_text_size">20sp</dimen>
+    <dimen name="user_values_height">20dp</dimen>
+    <dimen name="user_values_start_margin">16dp</dimen>
+    <dimen name="user_values_text_size">12sp</dimen>
+    <dimen name="user_score_top_margin">8dp</dimen>
+    <dimen name="item_view_layout_height">180dp</dimen>
+</resources>

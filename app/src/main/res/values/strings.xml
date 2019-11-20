@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Github Browse Application</string>
+    <string name="repo_info_textview">Click to checkout repository</string>
+    <string name="search_user_edit_text">Search user</string>
+    <string name="search_user_button_text">SEARCH</string>
+</resources>
